@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(251, 244, 244) ; 
+}
+.p1{
+    background-color: coral;
+    margin-right: 20%;
+    margin-left: 10%;
+    margin-top:10% ;
+    margin-bottom:10% ;
+}
+.p2{
+    background-color: coral;
+    padding-right: 20%; 
+    padding-left: 10%;
+    margin-top:10% ;
+    margin-bottom:10% ;
+}
+.p3{
+    background-color: coral;
+}
+
+.a{
+
+    padding-left: 3%;
+    
+}
+.b{
+    display: flex;
+    justify-content: center;
+}
